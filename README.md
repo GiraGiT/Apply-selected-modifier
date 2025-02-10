@@ -25,7 +25,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Acknowledgments
 - Thanks to the Blender community for their support and contributions.
 
-# Blender Add-on: Применить выбранный модификатор
+# Blender Add-on: Apply Selected Modifier
 
 ## Обзор
 Этот аддон для Blender позволяет выбрать конкретный модификатор из выбранных объектов и применить его ко всем выбранным объектам. Он добавляет опцию в меню Применить (Ctrl+A) и меню Объект.
