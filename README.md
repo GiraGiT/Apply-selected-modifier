@@ -19,35 +19,23 @@ This Blender add-on allows you to select a specific modifier from selected objec
 - Press `Ctrl+A` and select "Apply Selected Modifier" or go to `Object > Apply > Apply Selected Modifier`.
 - Choose the modifier you want to apply from the dialog that appears and confirm.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Acknowledgments
-- Thanks to the Blender community for their support and contributions.
-
 # Blender Add-on: Apply Selected Modifier
 
 ## Обзор
-Этот аддон для Blender позволяет выбрать конкретный модификатор из выбранных объектов и применить его ко всем выбранным объектам. Он добавляет опцию в меню Применить (Ctrl+A) и меню Объект.
+Этот аддон для Blender позволяет выбрать конкретный модификатор из выбранных объектов и применить его ко всем выбранным объектам. Он добавляет опцию в меню Apply (Ctrl+A) и меню Object.
 
 ## Особенности
 - Применение выбранного модификатора ко всем выбранным объектам в сцене.
-- Легкая интеграция в меню Применить (Ctrl+A) и меню Объект.
+- Легкая интеграция в меню Apply (Ctrl+A) и меню Object.
 
 ## Установка
 1. Скачайте файлы аддона.
-2. Откройте Blender и перейдите в `Редактирование` > `Настройки`.
-3. В окне Настроек перейдите на вкладку `Аддоны`.
-4. Нажмите `Установить...` и выберите файл `apply_selected_modifier.py`.
+2. Откройте Blender и перейдите в `Edit` > `Preferences`.
+3. В окне Настроек перейдите на вкладку `Add-ons`.
+4. Нажмите `Install...` и выберите файл `apply_selected_modifier.py`.
 5. Включите аддон, поставив галочку рядом с его названием.
 
 ## Использование
 - Выберите объекты, к которым вы хотите применить модификатор.
-- Нажмите `Ctrl+A` и выберите "Применить выбранный модификатор" или перейдите в `Объект > Применить > Применить выбранный модификатор`.
+- Нажмите `Ctrl+A` и выберите "Apply Selected Modifier" или перейдите в `Object > Apply > Apply Selected Modifier`.
 - Выберите модификатор, который вы хотите применить, в появившемся диалоговом окне и подтвердите.
-
-## Лицензия
-Этот проект лицензирован по лицензии MIT. Подробнее см. в файле LICENSE.
-
-## Благодарности
-- Спасибо сообществу Blender за их поддержку и вклад.
